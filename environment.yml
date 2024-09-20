@@ -1,0 +1,15 @@
+name: parallel_example
+channels:
+  - defaults
+dependencies:
+  - python==3.12
+  - numpy
+  - matplotlib
+  - numba
+  - ipython
+  - jupyter
+  - ipykernel
+  - tqdm
+  - pip
+  - pip:
+    - cupy-cuda12x # gpu package should work with typhon's version on cuda 12
