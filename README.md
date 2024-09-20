@@ -37,7 +37,7 @@ To set up the environment for this project, follow these steps:
 
 For more detailed information, refer to the following sections in the `/docs` directory:
 
-- [Introduction](docs/intro.md)
-- [Multiprocessing](docs/multiprocessing.md)
-- [Numba](docs/numba.md)
-- [Cupy](docs/cupy.md)
+- [Introduction](https://github.com/astro-group-bristol/parallelising-python/blob/main/docs/Intro.md)
+- [Multiprocessing](https://github.com/astro-group-bristol/parallelising-python/blob/main/docs/multiprocessing.md)
+- [Numba](https://github.com/astro-group-bristol/parallelising-python/blob/main/docs/numba.md)
+- [Cupy](https://github.com/astro-group-bristol/parallelising-python/blob/main/docs/cupy.md)
