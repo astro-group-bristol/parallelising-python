@@ -40,3 +40,4 @@ For more detailed information, refer to the following sections in the `/docs` di
 - [Introduction](docs/intro.md)
 - [Multiprocessing](docs/multiprocessing.md)
 - [Numba](docs/numba.md)
+- [Cupy](docs/cupy.md)
