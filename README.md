@@ -7,13 +7,13 @@ To set up the environment for this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```shell
-    git clone https://github.com/your-username/your-repo.git
+    git clone git@github.com:astro-group-bristol/parrallising-python.git
     ```
 
 2. Navigate to the project directory:
 
     ```shell
-    cd your-repo
+    cd parrallising-python
     ```
 
 3. Create a new conda environment using the `environment.yml` file:
@@ -30,6 +30,13 @@ To set up the environment for this project, follow these steps:
 
 5. You're all set! Now you can start working on the project.
 
-## License
+## Sections
 
-Include the license information for your project here.
+
+### Documentation
+
+For more detailed information, refer to the following sections in the `/docs` directory:
+
+- [Introduction](docs/intro.md)
+- [Multiprocessing](docs/multiprocessing.md)
+- [Numba](docs/numba.md)
