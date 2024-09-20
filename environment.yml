@@ -12,4 +12,4 @@ dependencies:
   - tqdm
   - pip
   - pip:
-    - cupy-cuda12x # gpu package should work with typhon's version on cuda 12
+    - cupy-cuda12x # gpu package should work with typhon's version of cuda 12
